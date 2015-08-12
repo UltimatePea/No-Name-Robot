@@ -1,0 +1,29 @@
+coordinate system starts from bottomleft
+
+About wall position in file
+
+
+z position{
+
+
+40========karel==========
+
+
+31======destination indicator======
+30======walls========
+
+
+20========beepers=======
+18========final beeper destination======
+
+10=======background===dots====
+
+0=======background====image====
+
+
+
+
+
+
+
+}

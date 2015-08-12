@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>user description</key>
+	<string>A standard map with 5 * 7 size</string>
+	<key>developer description</key>
+	<string>This map provides a paradigm for subsequent development of map</string>
+	<key>height</key>
+	<integer>7</integer>
+	<key>width</key>
+	<integer>5</integer>
+	<key>final beepers</key>
+	<array>
+		<dict>
+			<key>x</key>
+			<integer>4</integer>
+			<key>y</key>
+			<integer>5</integer>
+		</dict>
+	</array>
+	<key>initial position</key>
+	<dict>
+		<key>y</key>
+		<integer>1</integer>
+		<key>x</key>
+		<integer>1</integer>
+	</dict>
+	<key>final destination</key>
+	<dict>
+		<key>y</key>
+		<integer>5</integer>
+		<key>x</key>
+		<integer>3</integer>
+	</dict>
+	<key>beepers</key>
+	<array>
+		<dict>
+			<key>y</key>
+			<integer>2</integer>
+			<key>x</key>
+			<integer>3</integer>
+		</dict>
+	</array>
+	<key>walls</key>
+	<array>
+		<dict>
+			<key>x</key>
+			<integer>0</integer>
+			<key>y</key>
+			<integer>0</integer>
+			<key>direction</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>y</key>
+			<integer>2</integer>
+			<key>x</key>
+			<integer>1</integer>
+			<key>direction</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>y</key>
+			<integer>2</integer>
+			<key>x</key>
+			<integer>1</integer>
+			<key>direction</key>
+			<integer>4</integer>
+		</dict>
+		<dict>
+			<key>direction</key>
+			<integer>1</integer>
+			<key>x</key>
+			<integer>1</integer>
+			<key>y</key>
+			<integer>2</integer>
+		</dict>
+	</array>
+</dict>
+</plist>

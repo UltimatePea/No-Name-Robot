@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>final destination</key>
+	<dict>
+		<key>x</key>
+		<integer>1</integer>
+		<key>y</key>
+		<integer>0</integer>
+	</dict>
+	<key>height</key>
+	<string>2</string>
+	<key>width</key>
+	<string>2</string>
+	<key>initial position</key>
+	<dict>
+		<key>y</key>
+		<integer>1</integer>
+		<key>x</key>
+		<integer>0</integer>
+	</dict>
+	<key>walls</key>
+	<array>
+		<dict>
+			<key>direction</key>
+			<string>4</string>
+			<key>y</key>
+			<string>0</string>
+			<key>x</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>direction</key>
+			<string>1</string>
+			<key>y</key>
+			<string>0</string>
+			<key>x</key>
+			<string>0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
